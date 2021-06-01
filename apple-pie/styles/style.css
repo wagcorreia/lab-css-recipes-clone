@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    
+  }
+img.a {
+    width: 450px;
+    height: 300px;
+    object-fit:cover;
+    object-position:center;
+  }
+  h1 {
+    position: absolute;
+    color: white;
+    padding: 130px;
+    
+  }
+
+  .igredientes {
+    margin: 10 auto;
+    width: 500px;
+    align-content: center;
+  }
+  .imagem2 {
+    margin: 10;
+    width: 250px;
+    : center;
+  }
+  .imagem1 {
+    margin: 10;
+    width: 300px;
+    align-content: center;
+  }
+  .text1 {
+    margin: 20;
+    width: 600px;
+    display: center;
+    align-content: center;
+  }
+  .directions {
+    margin: 10 auto;
+    width: 600px;
+    align-content: center;
+  }
+
+  
+
+
+  
